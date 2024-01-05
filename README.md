@@ -1,2 +1,2 @@
-# Codesphere-
-LinkBio Codesphere 
+### NOTES
+GET A LICENSE IF YOU USE THIS CODE 
